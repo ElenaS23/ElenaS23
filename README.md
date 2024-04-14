@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ElenaS23
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning PYTHON, NODE JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning PYTHON, Java Script, HTML, CSS
+- 💞️ I’m looking to collaborate on Project related to Health or Healthcare
+- 📫 How to reach me: www.linkedin.com/in/elena-schauer-03ba19236
 
 <!---
 ElenaS23/ElenaS23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
