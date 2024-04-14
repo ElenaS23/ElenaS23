@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElenaS23
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning PYTHON, Java Script, HTML, CSS
-- 💞️ I’m looking to collaborate on Project related to Health or Healthcare
+- 💞️ I’m looking to collaborate on Projects related to Health or Healthcare
 - 📫 How to reach me: www.linkedin.com/in/elena-schauer-03ba19236
 
 <!---
